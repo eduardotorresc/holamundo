@@ -1,5 +1,7 @@
 # Ejemplo de "Hola, mundo".
 
+Repositorio de ejemplos de "hola, mundo" en distintos lenguajes de programación.
+
 ## "Hola, mundo" en Java.
 
 El ejemplo de un `"Hola, mundo"` en java se encuentra en el archivo **"Hola.java"** dentro del directorio **"hola_java/"**.
@@ -28,7 +30,7 @@ php hola_php/hola.php
 ## "Hola, mundo" en Javascript
 Ele ejemplo de un `"Hola, mundo` en javascript se encuentra en el archivo **"hola.js"** dentro del directorio **"hola_javascript"**.
 
-```
+```bash
 # Ejecutar desde línea de comandos usando NodeJS.
 node hola_javascript/hola.js
 ```
