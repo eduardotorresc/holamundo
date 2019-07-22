@@ -28,7 +28,7 @@ php hola_php/hola.php
 ---
 
 ## "Hola, mundo" en Javascript
-Ele ejemplo de un `"Hola, mundo` en javascript se encuentra en el archivo **"hola.js"** dentro del directorio **"hola_javascript"**.
+El ejemplo de un `"Hola, mundo` en javascript se encuentra en el archivo **"hola.js"** dentro del directorio **"hola_javascript"**.
 
 ```bash
 # Ejecutar desde línea de comandos usando NodeJS.
